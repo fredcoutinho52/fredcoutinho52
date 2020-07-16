@@ -1,8 +1,6 @@
-### Hi there, my name is Fred Coutinho 👋
+### Hi there, my name is Fred Coutinho 👋. I'm frontend developer at Destino Sustentável and mobile/web developer at Cupú Tecnologia.
 
 <!--
-**fredcoutinho52/fredcoutinho52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
