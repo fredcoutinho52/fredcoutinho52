@@ -3,5 +3,5 @@
 
 - 🌱 I’m currently learning Node.js, ReactJS and React Native
 - 📫 How to reach me: fredcoutinho52@gmail.com
-- 💬 Ask me about: Web and Mobile Development
+- 💬 Ask me about: Javascript and Python
 - ⚡ Fun fact: Power Rangers and Marvel lover
