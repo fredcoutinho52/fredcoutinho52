@@ -1,16 +1,7 @@
 ### Hi there, my name is Fred Coutinho 👋
 ### I'm frontend developer at Destino Sustentável and mobile/web developer at Cupú Tecnologia.
 
-- 🌱 I’m currently learning Node.js, ReactJS and React Native.
+- 🌱 I’m currently learning Node.js, ReactJS and React Native
 - 📫 How to reach me: fredcoutinho52@gmail.com
-- ⚡ Fun fact: Power Rangers and Marvel lover.
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
--->
+- 💬 Ask me about: Web and Mobile Development
+- ⚡ Fun fact: Power Rangers and Marvel lover
