@@ -1,6 +1,6 @@
 ### Hi there, my name is Fred Coutinho 👋
 
-Software developer at [Cupú Tecnologia](https://www.instagram.com/cupuoficial/) and at [Assertive Yield](*https://www.assertiveyield.com/).
+Software developer at [Cupú Tecnologia](https://www.instagram.com/cupuoficial/) and at [Assertive Yield](https://www.assertiveyield.com/).
 
 - 👾 Javascript developer main
 - 🌱 Currently learning Typescript
