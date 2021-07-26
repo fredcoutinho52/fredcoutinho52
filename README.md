@@ -5,5 +5,5 @@ Another front end developer that loves Javascript.
 - 👾 Javascript developer
 - 🌱 Currently learning Typescript and Python
 - 📫 How to reach me: fredcoutinho52@gmail.com
-- 💬 Ask me about: Frontend Development
+- 💬 Ask me about: Frontend Development / Call of Duty
 - ⚡ Fun fact: Power Rangers and Marvel fan
