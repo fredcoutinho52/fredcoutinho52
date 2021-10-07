@@ -1,9 +1,9 @@
 ### Hey folks, my name is Fred Coutinho 👋
 
-Another front end developer that loves Javascript.
+Front end developer at [Assertive Yield](https://www.assertiveyield.com/) and [CINBESA](http://www.cinbesa.com.br/).
 
 - 👾 Javascript developer
-- 🌱 Currently learning Typescript and Python
+- 🌱 Currently learning Typescript
 - 📫 How to reach me: fredcoutinho52@gmail.com
 - 💬 Ask me about: Frontend Development / Call of Duty
 - ⚡ Fun fact: Power Rangers and Marvel fan
