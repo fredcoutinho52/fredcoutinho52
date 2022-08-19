@@ -1,6 +1,6 @@
 ### Hey folks, my name is Fred Coutinho 👋
 
-Front end developer at [CINBESA](http://www.cinbesa.com.br/) and [Bag Marketing](https://www.bagmarketing.com.br/).
+Front end developer at [AquaSoft](https://aquasoft.com.br/site/index.php) and [Bag Marketing](https://www.bagmarketing.com.br/).
 
 - 👾 JavaScript / TypeScript developer
 - 🌱 Currently learning Game Development and Machine Learning
