@@ -1,9 +1,9 @@
 ### Hey folks, my name is Fred Coutinho 👋
 
-Front end developer at [AquaSoft](https://aquasoft.com.br/site/index.php) and [Bag Marketing](https://www.bagmarketing.com.br/).
+I'm a Front-End Developer focused on JavaScript and TypeScript technologies.
 
 - 👾 JavaScript / TypeScript developer
-- 🌱 Currently learning Game Development and Machine Learning
+- 🌱 Currently learning Game Development
 - 📫 How to reach me: fredcoutinho52@gmail.com
 - 💬 Ask me about: Web / Mobile Development and Call of Duty
 - ⚡ Fun fact: Power Rangers and Marvel fan
