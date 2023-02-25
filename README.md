@@ -2,11 +2,10 @@
 
 I'm a Front-End Developer focused on JavaScript and TypeScript technologies.
 
-- 👾 JavaScript / TypeScript developer
 - 🌱 Currently learning Game Development
 - 📫 How to reach me: fredcoutinho52@gmail.com
-- 💬 Ask me about: Web / Mobile Development and Call of Duty
-- ⚡ Fun fact: Power Rangers and Marvel fan
+- 💬 Ask me about: Web / Mobile Development
+- ⚡ Fun fact: Gamer and Power Rangers fan
 
  <div>
   <a href="https://github.com/fredcoutinho52">
